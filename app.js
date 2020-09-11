@@ -17,7 +17,7 @@ require([
         container: "map-view",
         map: map,
         center: [-77.465847, 37.561295], // longitude, latitude
-        zoom: 16
+        zoom: 13
     });
 
     var point = {
