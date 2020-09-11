@@ -1,4 +1,4 @@
-const sensorURL = "http://www.purpleair.com/json?show=34579|38253|38254|34109|34747|34748|34627|38237|34691|34153|34099|27401";
+const sensorURL = "https://www.purpleair.com/json?show=34579|38253|38254|34109|34747|34748|34627|38237|34691|34153|34099|27401";
 
 require([
     "esri/Map",
